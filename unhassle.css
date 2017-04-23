@@ -1,0 +1,29 @@
+
+body{
+	background-color: #1abc9c;
+
+}
+.wc{
+	background-color: #d9e0e0;
+
+
+}
+a:hover{
+	color: white !important;
+}
+.wcc{
+	font-family: 'News Cycle', sans-serif;
+}
+.ti{
+	width: 100%;
+	border-radius: 5px;
+	border:0px;
+}
+.fm{
+	background-color: rgba(65, 67, 71,0.9);
+	padding: 20px;
+	border-radius: 20px;
+}
+.wc2{
+	padding: 20px;
+}

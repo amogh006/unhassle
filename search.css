@@ -1,0 +1,48 @@
+body{
+	font-family: 'Julius Sans One', sans-serif;
+}
+#uadd{
+	background-color: rgba(71, 244, 65, 0.7);
+	height: 300px;
+	width: 100%;
+	margin-top: 20px;
+	color: white;
+
+}
+input[type=submit]{
+	height: 40px;
+	width: 120px;
+	margin-top: 5%;
+	border: 0px;
+	border-radius: 30px;
+	background-color: rgb(83, 86, 86);
+	color: white;
+	
+}
+input[type=text]{
+	height: 50px;
+	width: 70%;
+	margin-top: 5%;
+	border-radius: 40px;
+	border: 0px;
+	
+
+}
+#fi{
+	margin-top: 40px;
+}
+#lab{
+	font-size: 20px;
+}
+.welcome{
+	color: orange;
+}
+#info{
+	background-color: white;
+	padding: 15px;
+}
+.uh{
+	background-color: orange;
+	color: white;
+	font-size: 50px;
+}
